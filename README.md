@@ -6,6 +6,11 @@ curl install
 docker.io install
 tree install
 
+# cloning
+git clone https://github.com/shs12321/200506msaTest.git
+cd 200506msaTest
+cd ubuntu
+
 # Building & Running
 
 Copy the sources to your docker host and build the container, and to run.
